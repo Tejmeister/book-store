@@ -1,0 +1,16 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "RESTful book store APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookstore",
+    "restful",
+    "api"
+  ],
+  "author": "Tejas Parmar",
+  "license": "ISC"
+}
